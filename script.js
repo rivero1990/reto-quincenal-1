@@ -22,8 +22,8 @@ const respuesta3 = document.querySelector("#dato-3");
 const respuesta4 = document.querySelector("#dato-4");
 const respuesta5 = document.querySelector("#dato-5");
 
-cuerpoDePagina.style.background = "0d1117";
-cuerpoDePagina.style.color = "e6edf3";
+cuerpoDePagina.style.background = "#0d1117";
+cuerpoDePagina.style.color = "#e6edf3";
 imagenInicial.src = IMAGEN_1;
 
 function datosIngresados() {
